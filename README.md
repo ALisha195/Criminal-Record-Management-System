@@ -52,6 +52,14 @@ CriminalDatabase\Important_Stuff\Database Latest\criminalrecord.sql
 ```
 CriminalDatabase\Library
 ```
-7. Run this project. 
+7. Run this project.
+
+## Authors
+
+* **Alisha  Muskaan** - *Initial work* - [Alisha Muskaan](https://github.com/ALisha195)
+
+See also the list of [contributors](https://github.com/ALisha195/Criminal-Record-Management-System/contributors) who participated in this project.
+
+## License
 
 
