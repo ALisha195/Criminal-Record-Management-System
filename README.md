@@ -4,11 +4,11 @@ Criminal record generally contains personal information about particular person 
 
 ## ScreenShot
 
-<img src="Criminal-Record-Management-System/Screenshot/screenshot1.jpg" width="500" />
-<img src="Criminal-Record-Management-System/Screenshot/screenshot2.jpg" width="500" />
-<img src="Criminal-Record-Management-System/Screenshot/screenshot3.jpg" width="500" />
-<img src="Criminal-Record-Management-System/Screenshot/screenshot4.jpg" width="500" />
-<img src="Criminal-Record-Management-System/Screenshot/screenshot5.jpg" width="500" />
+<img src="Screenshot/screenshot1.jpg" width="500" />
+<img src="Screenshot/screenshot1.jpg" width="500" />
+<img src="Screenshot/screenshot1.jpg" width="500" />
+<img src="Screenshot/screenshot1.jpg" width="500" />
+<img src="Screenshot/screenshot1.jpg" width="500" />
 
 
 ## Getting Started
